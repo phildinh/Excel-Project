@@ -1,7 +1,7 @@
 # Maven Toys Monthly Sales Dashboard
 
 ## Project Description
-Maven Toys, a small toy store chain in the US, I will develop a new monthly dashboard tailored for the company’s Regional Sales Managers. This tool is designed to provide dynamic insights into sales performance, enabling managers to filter data by region, track monthly revenue trends, and analyze performance year-over-year. Additionally, the dashboard allows for comparison across stores and highlights specific products that have driven the most significant gains and losses.
+Maven Toys, a small toy store chain in the US, I will develop a new monthly dashboard tailored for the company’s Regional Sales Managers. This dashboard is designed to provide dynamic insights into sales performance, enabling managers to filter data by region, track monthly revenue trends, and analyze performance year-over-year. Additionally, the dashboard allows for comparison across stores and highlights specific products that have driven the most significant gains and losses.
 
 ## Questions from Stakeholders
 The following key questions were posed by stakeholders to guide the development of this dashboard:
